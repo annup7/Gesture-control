@@ -20,7 +20,6 @@ Control the classic **Subway Surfers** & **Temple Run** game using just your **h
 - **OpenCV** – Image processing and webcam input
 - **MediaPipe** – Hand tracking and gesture detection
 - **PyAutoGUI** – Automating keyboard actions
-- **NumPy**, **Time**, **Math**, and other standard Python modules
 
 ---
 
